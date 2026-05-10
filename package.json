@@ -1,0 +1,15 @@
+{  
+  "name": "empire",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "chart.js": "^2.9.4",
+    "express": "4.16.4",
+    "nedb": "1.8.0",
+    "request": "2.88.0"
+  }
+}
